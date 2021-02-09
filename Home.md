@@ -64,7 +64,10 @@ Linux Systems work much like a Mac does. In the settings you can run a backup li
 
 The various options for each system is a beneficial tool for restoring your system when something goes wrong. This can save time, money and lots of headaches. 
 
+Resources:
 
+https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
+ 
 
  
 
